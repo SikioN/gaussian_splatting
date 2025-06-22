@@ -1,0 +1,156 @@
+\documentclass[acmtog]{acmart}
+
+\AtBeginDocument{%
+  \providecommand\BibTeX{{%
+    Bib\TeX}}}
+
+\setcopyright{licensedothergov}
+
+\usepackage[T1]{fontenc} % Поддержка кодировки шрифтов
+\usepackage[utf8]{inputenc} % Поддержка UTF-8 для ввода символов
+\usepackage[english,russian]{babel} % Поддержка русского и английского языков
+
+\acmJournal{TOG}
+
+\acmSubmissionID{685}
+
+
+
+\citestyle{acmauthoryear}
+
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{xcolor,colortbl}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usetikzlibrary{spy,backgrounds}
+\usepackage{soul}
+
+\usepackage[percent]{overpic}
+
+\DeclareGraphicsRule{.ai}{pdf}{.ai}{}
+
+\newcommand{\GD}[1]{\textcolor{red}{#1}}
+\newcommand{\TODO}[1]{}
+\newcommand{\GK}[1]{\textcolor{blue}{GK: #1}}
+\newcommand{\BK}[1]{\textcolor{cyan}{BK: #1}}
+\newcommand{\TL}[1]{\textcolor{purple}{TL: #1}}
+
+\setcopyright{licensedothergov}
+\acmYear{2023} \acmVolume{42} \acmNumber{4} \acmArticle{1} \acmMonth{8} \acmPrice{15.00} \acmDOI{10.1145/3592433}
+
+\begin{document}
+
+\title{3D Gaussian Splatting для рендеринга радиусных полей в реальном времени}
+
+
+\author{Бернхард Кербл}
+\orcid{0000-0002-5168-8648}
+\authornote{Оба автора внесли равный вклад в статью.}
+\email{bernhard.kerbl@inria.fr}
+\affiliation{%
+    \institution{Inria, Universit\'e C\^ote d'Azur}
+    \country{Франция}
+}
+\author{Георгиос Копанас}
+\orcid{0009-0002-5829-2192}
+\authornotemark[1]
+\email{georgios.kopanas@inria.fr}
+\affiliation{%
+    \institution{Inria, Universit\'e C\^ote d'Azur}
+    \country{Франция}
+}
+\author{Томас Леймкюлер}
+\orcid{0009-0006-7784-7957}
+\email{thomas.leimkuehler@mpi-inf.mpg.de}
+\affiliation{%
+    \institution{Max-Planck-Institut f\"{u}r Informatik}
+    \country{Германия}
+}
+\author{Джордж Дреттакис}
+\orcid{0000-0002-9254-4819}
+\email{george.drettakis@inria.fr}
+\affiliation{%
+    \institution{Inria, Universit\'e C\^ote d'Azur}
+    \country{Франция}
+}
+
+\def\Dg{DG}
+
+
+
+\newcommand{\ADDITION}[1]{#1}
+\newcommand{\REMOVAL}[1]{}
+\newcommand{\CORRECTION}[2]{#2}
+
+
+\begin{abstract}
+Методы радиусных полей недавно произвели революцию в синтезе новых видов сцен, захваченных с помощью множества фотографий или видео. Однако достижение высокого визуального качества по-прежнему требует нейронных сетей, которые дороги в обучении и рендеринге, а недавние более быстрые методы неизбежно жертвуют скоростью ради качества. Для неограниченных и полных сцен (в отличие от изолированных объектов) и рендеринга с разрешением 1080p ни один из текущих методов не может достичь частоты вывода изображений в реальном времени. Мы представляем три ключевых элемента, которые позволяют нам достичь передового визуального качества, сохраняя при этом конкурентные времена обучения и, что важно, обеспечивают высококачественный синтез новых видов в реальном времени ($\geq30$~fps) с разрешением 1080p. Во-первых, начиная со скудных точек, созданных во время калибровки камеры, мы представляем сцену с помощью 3D Гауссиан, сохраняя желаемые свойства непрерывных объемных радиусных полей для оптимизации сцены, избегая при этом ненужных вычислений в пустом пространстве; Во-вторых, мы выполняем чередующуюся оптимизацию/контроль плотности 3D Гауссиан, особенно оптимизируя анизотропную ковариацию для достижения точного представления сцены; В-третьих, мы разрабатываем быстрый алгоритм рендеринга с учетом видимости, который поддерживает анизотропное сплаттинг и ускоряет как обучение, так и позволяет рендеринг в реальном времени. Мы демонстрируем передовое визуальное качество и рендеринг в реальном времени на нескольких установленных наборах данных.
+\end{abstract}
+
+\begin{CCSXML}
+    <ccs2012>
+    <concept>
+    <concept_id>10010147.10010371.10010372.10010373</concept_id>
+    <concept_desc>Вычислительные методологии~Растеризация</concept_desc>
+    <concept_significance>500</concept_significance>
+    </concept>
+    <concept>
+    <concept_id>10010147.10010257.10010293</concept_id>
+    <concept_desc>Вычислительные методологии~Подходы машинного обучения</concept_desc>
+    <concept_significance>300</concept_significance>
+    </concept>
+    <concept>
+    <concept_id>10010147.10010371.10010396.10010400</concept_id>
+    <concept_desc>Вычислительные методологии~Модели на основе точек</concept_desc>
+    <concept_significance>500</concept_significance>
+    </concept>
+    <concept>
+    <concept_id>10010147.10010371.10010372</concept_id>
+    <concept_desc>Вычислительные методологии~Рендеринг</concept_desc>
+    <concept_significance>500</concept_significance>
+    </concept>
+    </ccs2012>
+\end{CCSXML}
+
+\ccsdesc[500]{Вычислительные методологии~Рендеринг}
+\ccsdesc[500]{Вычислительные методологии~Модели на основе точек}
+\ccsdesc[500]{Вычислительные методологии~Растеризация}
+\ccsdesc[500]{Вычислительные методологии~Подходы машинного обучения}
+
+\keywords{синтез новых видов, радиусные поля, 3D гауссианы, рендеринг в реальном времени}
+
+\begin{teaserfigure}
+    \includegraphics[width=\textwidth]{figures/teaser/teaser_02.pdf}
+    \caption{
+    \label{fig:teaser}
+    Наш метод достигает рендеринга радиусных полей в реальном времени с качеством, равным предыдущему методу с наилучшим качеством ~\cite{barron2022mipnerf360}, требуя при этом времени оптимизации только конкурентного с самыми быстрыми предыдущими методами~\cite{plenoxels,mueller2022instant}.
+    Ключом к этой производительности является новое представление сцены с помощью 3D Гауссиан в сочетании с дифференцируемым рендером в реальном времени, который обеспечивает значительное ускорение как оптимизации сцены, так и синтеза новых видов.
+    Обратите внимание, что для сравнимого времени обучения с InstantNGP ~\cite{mueller2022instant} мы достигаем качество, аналогичное их; хотя это максимальное качество, которое они достигают, обучаясь 51 минуту, мы достигаем передового качества, даже немного лучше, чем Mip-NeRF360~\cite{barron2022mipnerf360}. %
+    }
+    \Description[TeaserFigure]{TeaserFigure}
+\end{teaserfigure}
+\maketitle
+
+
+\input{intro}
+\input{related}
+\input{overview}
+\input{volume_gaussians}
+\input{densification}
+\input{tile_rasterizer}
+\input{implementation_results_eval}
+\input{discussion_conclusion}
+
+\begin{acks}
+Это исследование было профинансировано грантом ERC Advanced FUNGRAPH № 788065 \textcolor{blue}{\url{http://fungraph.inria.fr}}. Авторы благодарны Adobe за щедрые пожертвования, инфраструктуру OPAL от Université Côte d’Azur и за ресурсы HPC от GENCI–IDRIS (Грант 2022-AD011013409). Авторы благодарят анонимных рецензентов за ценные отзывы, П.\ Хедмана и А.\ Тевари за проверку ранних черновиков, а также Т.\ Мюллера, А.\ Ю и С.\ Фридович-Кейла за помощь в сравнениях. 
+\end{acks}
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{points.bib}
+
+\input{appendices}
+
+\end{document}
