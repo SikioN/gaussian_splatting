@@ -1,0 +1,73 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\selectlanguage{#1}\fi}
+\providecommand*{\href}[2]{{\small #2}}
+\providecommand*{\url}[1]{{\small #1}}
+\providecommand*{\BibUrl}[1]{\url{#1}}
+\providecommand{\BibAnnote}[1]{}
+\providecommand*{\BibEmph}[1]{#1}
+\ProvideTextCommandDefault{\cyrdash}{\iflanguage{russian}{\hbox
+  to.8em{--\hss--}}{\textemdash}}
+\providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em plus
+  0.1em\fi
+\cyrdash\hskip.2em plus 0.1em\ignorespaces}
+\renewcommand{\newblock}{\ignorespaces}
+
+\bibitem{kerbl2023}
+\selectlanguageifdefined{english}
+3D Gaussian Splatting for Real-Time Radiance Field Rendering~/ Kerbl~B.,
+  Kopanas~G., Leimkühler~T., and Drettakis~G. \BibDash
+\newblock arXiv~: arXiv:2308.04079, 2023.
+
+\bibitem{graphdeco_repo}
+\selectlanguageifdefined{english}
+Kerbl~B. et~al. graphdeco-inria/gaussian-splatting: Official repository.
+  \BibDash
+\newblock GitHub~: GitHub, 2023.
+
+\bibitem{zwicker2001}
+\selectlanguageifdefined{english}
+Zwicker~M. et~al. EWA Volume Splatting. \BibDash
+\newblock VIS Conference~: IEEE, 2001.
+
+\bibitem{gsplat_repo}
+\selectlanguageifdefined{english}
+Project~Nerfstudio. gsplat: Differentiable Gaussian Splatting library. \BibDash
+\newblock GitHub~: GitHub, 2024.
+
+\bibitem{gsplat_docs}
+\selectlanguageifdefined{english}
+Project~Nerfstudio. gsplat Documentation. \BibDash
+\newblock gsplat.studio~: gsplat.studio, 2024.
+
+\bibitem{huggingface_blog}
+\selectlanguageifdefined{english}
+Face~Hugging. Gaussian Splatting: A New Era in Real-Time 3D Rendering. \BibDash
+\newblock Hugging Face Blog~: Hugging Face, 2024.
+
+\bibitem{habr_article}
+\selectlanguageifdefined{russian}
+Хабр. 3D Gaussian Splatting: Реализация и применение.
+  \BibDash
+\newblock Хабр~: Хабр, 2023.
+
+\bibitem{medium_part1}
+\selectlanguageifdefined{english}
+Ye~V. A Python Engineer’s Introduction to 3D Gaussian Splatting (Part 1).
+  \BibDash
+\newblock Towards Data Science~: Medium, 2023.
+
+\bibitem{medium_part2}
+\selectlanguageifdefined{english}
+Ye~V. A Python Engineer’s Introduction to 3D Gaussian Splatting (Part 2).
+  \BibDash
+\newblock Towards Data Science~: Medium, 2023.
+
+\bibitem{towardsdatascience_part3}
+\selectlanguageifdefined{english}
+Ye~V. A Python Engineer’s Introduction to 3D Gaussian Splatting (Part 3).
+  \BibDash
+\newblock Towards Data Science~: Medium, 2024.
+
+\end{thebibliography}

@@ -1,0 +1,678 @@
+PWD /Users/nmuravya/Desktop/gaussian splatting/report
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /Users/nmuravya/Desktop/gaussian splatting/report/rpz.tex
+OUTPUT rpz.log
+INPUT ./G7-32.cls
+INPUT G7-32.cls
+INPUT ./G2-105.sty
+INPUT G2-105.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT ./GostBase.clo
+INPUT ./GostBase.clo
+INPUT GostBase.clo
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/extsizes/size14.clo
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/extsizes/size14.clo
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/extsizes/size14.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lastpage/lastpage.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lastpage/lastpage.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lastpage/lastpage2e.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lastpage/lastpage2e.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lastpage/lastpageclassic.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lastpage/lastpageclassic.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xstring/xstring.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xstring/xstring.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xstring/xstring.tex
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/cmap.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/cmap.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2aenc.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2aenc.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2aenc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t2aenc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t2aenc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t2aenc.dfu
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmr.fd
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmr.fd
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmr.fd
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm1440.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/t2a.cmap
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/t2a.cmap
+OUTPUT rpz.pdf
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/t2a.cmap
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/utf8x.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/utf8x.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/utf8x.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/utf8.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/omsenc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/omsenc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/omsenc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ot1enc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ot1enc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ot1enc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1enc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1enc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1enc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ts1enc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ts1enc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ts1enc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t2aenc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t2aenc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t2aenc.dfu
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/txtbabel.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-russian/russianb.ldf
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-russian/russianb.ldf
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-russian/russianb.ldf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/ru/babel-russian.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/ru/babel-russian.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/ru/babel-russian.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/ru/babel-ru.ini
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-en.ini
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/ucs.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/ucs.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/data/uni-global.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/data/uni-global.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/data/uni-global.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/upquote/upquote.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/upquote/upquote.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/textcomp.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/textcomp.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/flafter.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/flafter.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/was/icomma.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/was/icomma.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/leqno.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/leqno.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/leqno.clo
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/longtable.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/footmisc/footmisc.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/footmisc/footmisc.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/footmisc/footmisc-2022-02-14.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/footmisc/footmisc-2022-02-14.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/footmisc/footmisc-2022-02-14.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bigfoot/perpage.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bigfoot/perpage.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT ./G7-32.sty
+INPUT G7-32.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mfirstuc/mfirstuc.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mfirstuc/mfirstuc.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nomencl/nomencl.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nomencl/nomencl.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/tocbasic.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/tocbasic.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrbase.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrbase.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlfile.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlfile.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlogo.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlogo.sty
+OUTPUT rpz.nlo
+INPUT ./gosttitleGost7-32.sty
+INPUT gosttitleGost7-32.sty
+INPUT ./preamble.inc.tex
+INPUT ./preamble.inc.tex
+INPUT ./preamble.inc.tex
+INPUT preamble.inc.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/atbegshi/atbegshi.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/atveryend/atveryend.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-ltx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-ltx.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype-pdftex.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype-pdftex.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype-pdftex.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype.cfg
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype.cfg
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype.cfg
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/trimclip.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/trimclip.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/collectbox/collectbox.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/collectbox/collectbox.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/adjcalc.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/adjcalc.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/tc-pdftex.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/tc-pdftex.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/adjustbox/tc-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfint.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/paralist/paralist.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/paralist/paralist.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/blindtext/blindtext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/blindtext/blindtext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/xspace.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/xspace.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/newfloat/newfloat.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/newfloat/newfloat.sty
+INPUT ./listings.inc.tex
+INPUT ./listings.inc.tex
+INPUT ./listings.inc.tex
+INPUT listings.inc.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstmisc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstmisc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstmisc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.cfg
+INPUT ./macros.inc.tex
+INPUT ./macros.inc.tex
+INPUT ./macros.inc.tex
+INPUT macros.inc.tex
+INPUT ./00-title.tex
+INPUT ./00-title.tex
+INPUT ./00-title.tex
+INPUT ./00-title.tex
+INPUT ./00-title.tex
+INPUT ./00-title.tex
+INPUT 00-title.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT ./rpz.aux
+INPUT ./rpz.aux
+INPUT rpz.aux
+INPUT ./12-intro.aux
+INPUT ./12-intro.aux
+INPUT 12-intro.aux
+INPUT ./20-analysis.aux
+INPUT ./20-analysis.aux
+INPUT 20-analysis.aux
+INPUT ./30-design.aux
+INPUT ./30-design.aux
+INPUT 30-design.aux
+INPUT ./80-conclusion.aux
+INPUT ./80-conclusion.aux
+INPUT 80-conclusion.aux
+INPUT ./81-biblio.aux
+INPUT ./81-biblio.aux
+INPUT 81-biblio.aux
+OUTPUT rpz.aux
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/ucsencs.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/ucsencs.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/ucsencs.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/ltcaption.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/ltcaption.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/color.sty
+INPUT ./rpz.out
+INPUT ./rpz.out
+INPUT rpz.out
+INPUT rpz.out
+INPUT ./rpz.out
+INPUT ./rpz.out
+OUTPUT rpz.out
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-cmr.cfg
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-cmr.cfg
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-cmr.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm1000.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map
+INPUT ./rpz.toc
+INPUT ./rpz.toc
+INPUT rpz.toc
+OUTPUT rpz.toc
+INPUT ./12-intro.tex
+INPUT ./12-intro.tex
+OUTPUT 12-intro.aux
+INPUT ./12-intro.tex
+INPUT ./12-intro.tex
+INPUT 12-intro.tex
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/labx1440.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/latt1440.tfm
+INPUT ./20-analysis.tex
+INPUT ./20-analysis.tex
+OUTPUT 20-analysis.aux
+INPUT ./20-analysis.tex
+INPUT ./20-analysis.tex
+INPUT 20-analysis.tex
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/ot1.cmap
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/ot1.cmap
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cmap/ot1.cmap
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/oml.cmap
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/oml.cmap
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/oml.cmap
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/oms.cmap
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/oms.cmap
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/oms.cmap
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/omx.cmap
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/omx.cmap
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mmap/omx.cmap
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msa.cfg
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msa.cfg
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msa.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msb.cfg
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msb.cfg
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msb.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx7.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/lati1440.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm0700.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstlang1.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstlang1.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstlang1.sty
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/larm1200.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr6.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx8.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx6.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/labx1200.tfm
+INPUT ./30-design.tex
+INPUT ./30-design.tex
+OUTPUT 30-design.aux
+INPUT ./30-design.tex
+INPUT ./30-design.tex
+INPUT 30-design.tex
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/lh/lh-t2a/labx1000.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1000.tfm
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cyrillic/koi8-r.def
+INPUT ./sunflowers_3d_model.png
+INPUT ./sunflowers_3d_model.png
+INPUT ./sunflowers_3d_model.png
+INPUT ./sunflowers_3d_model.png
+INPUT ./sunflowers_3d_model.png
+INPUT ./sunflowers_3d_model.png
+INPUT ./sunflowers_3d_model.png
+INPUT ./80-conclusion.tex
+INPUT ./80-conclusion.tex
+OUTPUT 80-conclusion.aux
+INPUT ./80-conclusion.tex
+INPUT ./80-conclusion.tex
+INPUT 80-conclusion.tex
+INPUT ./81-biblio.tex
+INPUT ./81-biblio.tex
+OUTPUT 81-biblio.aux
+INPUT ./81-biblio.tex
+INPUT ./81-biblio.tex
+INPUT 81-biblio.tex
+INPUT ./rpz.bbl
+INPUT ./rpz.bbl
+INPUT rpz.bbl
+INPUT rpz.aux
+INPUT ./12-intro.aux
+INPUT ./12-intro.aux
+INPUT 12-intro.aux
+INPUT ./20-analysis.aux
+INPUT ./20-analysis.aux
+INPUT 20-analysis.aux
+INPUT ./30-design.aux
+INPUT ./30-design.aux
+INPUT 30-design.aux
+INPUT ./80-conclusion.aux
+INPUT ./80-conclusion.aux
+INPUT 80-conclusion.aux
+INPUT ./81-biblio.aux
+INPUT ./81-biblio.aux
+INPUT 81-biblio.aux
+INPUT ./rpz.out
+INPUT ./rpz.out
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/cm-super/cm-super-t2a.enc
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfbx1000.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfbx1000.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfbx1200.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfbx1200.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfbx1440.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfbx1440.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfrm1000.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfrm1000.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfrm1200.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfrm1200.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfrm1440.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfrm1440.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfti1440.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sfti1440.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sftt1440.pfb
+INPUT /Users/nmuravya/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/cm-super/sftt1440.pfb
